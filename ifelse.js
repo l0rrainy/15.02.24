@@ -1,6 +1,6 @@
 function VerificarLogin () {
-    let txtLogin = document.getElementById("txtLogin")
-    let txtSenha = document.getElementById("txtSenha")
+    let txtLogin = document.getElementById("txtLogin");
+    let txtSenha = document.getElementById("txtSenha");
 
     let login = "teste";
     let senha = "teste";
